@@ -69,11 +69,14 @@ __Pinnacle Management Group__,
 ## Service and Work History
 
 `2025-2027`
-__Math Tutor__, LDSBC
+__English/Chinese Tutor__, LDSBC
+
+`2019-2020`
+__Gardene1r__, BYUI
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2015-2017`
+__Service Missionary__, Los Angeles 
 
 
 
