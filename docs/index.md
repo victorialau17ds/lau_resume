@@ -14,12 +14,16 @@ A person sits on the computer for 12 hours and goes for a hike for the next 12 h
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+## Attribute
+
+
 ## Education
 
 `Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 3.5 Major GPA
+- Data Science Major 
+- Sociology Minor
 
 
 ## Related Experience
@@ -32,7 +36,7 @@ __Taiwan Real Estate Prediction__
 
 - Used R dygraph package to build interactive flow charts
 - Used R leaflet package to find relationships through maps 
-- Observed the best time to invest real estate
+- Observed the best time to invest Taiwan real estate
 
 
 
@@ -41,6 +45,7 @@ __Taiwan Real Estate Prediction__
 
 `2019-2020`
 __Gardener__, BYUI
+-
 
 `March 2017 - Dec 2017`
 __Quality checker__, Cido
@@ -51,6 +56,8 @@ __Quality checker__, Cido
 
 `2015-2017`
 __Service Missionary__, Los Angeles 
+-full time missionary for The Church of Jesus Christ of Latter-days Saints
+-
 
 
 
